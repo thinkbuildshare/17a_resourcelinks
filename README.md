@@ -6,3 +6,4 @@
 
 ## 工具
 [tinypng 图片压缩](https://tinypng.com/)
+[vps全球访问测试](https://ping.pe/)
