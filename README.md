@@ -6,4 +6,5 @@
 
 ## 工具
 [tinypng 图片压缩](https://tinypng.com/)  
-[vps全球访问测试](https://ping.pe/)
+[vps全球访问测试](https://ping.pe/)  
+[ssl免费证书申请](https://github.com/acmesh-official/acme.sh)
