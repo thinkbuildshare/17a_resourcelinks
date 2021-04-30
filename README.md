@@ -11,6 +11,7 @@
 [hutool](https://hutool.cn/docs/#/)
 [Finder](http://www.finderweb.net/)  
 [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
+[数学公式编辑](https://www.mathcha.io/editor#)
 
 ## 后端框架
 - spring系列
